@@ -1,8 +1,10 @@
-#image{
+image{
     max-width: fit-content;
     height: 70vh;
 }
 
 img{
-    margin: auto;
+    max-width: 100%;
+    display: block;
+    height: auto;
 }
